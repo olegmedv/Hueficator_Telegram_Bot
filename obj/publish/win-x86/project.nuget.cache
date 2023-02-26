@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H+pOgT/bZybj7V8JYU27n/v08MVDdxZxGeD9B6r3tOvaIB/Gzi1J4O5A+2we0IWMdOoZKhAYH/ySc/7iEyTkng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSINote\\source\\repos\\HueConsoleApp\\HueConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSINote\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\MSINote\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\MSINote\source\repos\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.pdb
+C:\Users\MSINote\source\repos\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.exe

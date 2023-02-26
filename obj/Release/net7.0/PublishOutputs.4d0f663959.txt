@@ -1,0 +1,7 @@
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.exe
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.dll
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.deps.json
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.runtimeconfig.json
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\HueConsoleApp.pdb
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\Newtonsoft.Json.dll
+C:\Users\MSINote\source\repos\HueConsoleApp\HueConsoleApp\bin\Release\net6.0\publish\win-x86\Telegram.Bot.dll
